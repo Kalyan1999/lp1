@@ -1,0 +1,17 @@
+$ ./bin/client_is_prime 
+Client (isPrime) Program.
+Press Ctrl+C to exit.
+
+Enter a Number: 5
+5 is a prime no.
+
+Enter a Number: 25
+25 is not a prime no.
+
+Enter a Number: -10
+-10 is not a prime no.
+
+Enter a Number: 0
+0 is not a prime no.
+
+Enter a Number: ^C

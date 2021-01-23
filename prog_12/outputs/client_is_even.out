@@ -1,0 +1,17 @@
+$ ./bin/client_is_even 
+Client (isEven) Program.
+Press Ctrl+C to exit.
+
+Enter a Number: 5
+5 is an odd no.
+
+Enter a Number: 8
+8 is an even no.
+
+Enter a Number: 0
+0 is an even no.
+
+Enter a Number: -3
+-3 is an odd no.
+
+Enter a Number: ^C

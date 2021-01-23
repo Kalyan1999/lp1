@@ -1,0 +1,3 @@
+Hello this is a text file
+with multiple lines.
+123456

@@ -1,0 +1,7 @@
+$ ./bin/client 
+Client program.
+
+> Hello, Server!
+
+Sent: Hello, Server!
+Echo: Hello, Server!

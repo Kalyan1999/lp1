@@ -1,0 +1,6 @@
+$ ./bin/server 
+Server program.
+Press Ctrl+C to exit.
+
+[Echoed message from 127.0.0.1:55222] > Hello, World!
+[Echoed message from 127.0.0.1:35540] > Hello, Server!

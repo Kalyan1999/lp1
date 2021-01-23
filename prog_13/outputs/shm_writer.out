@@ -1,0 +1,28 @@
+$ ./bin/shm_writer 
+Writing 25 Random Numbers.
+ Wrote: 1804289383
+ Wrote: 846930886
+ Wrote: 1681692777
+ Wrote: 1714636915
+ Wrote: 1957747793
+ Wrote: 424238335
+ Wrote: 719885386
+ Wrote: 1649760492
+ Wrote: 596516649
+ Wrote: 1189641421
+ Wrote: 1025202362
+ Wrote: 1350490027
+ Wrote: 783368690
+ Wrote: 1102520059
+ Wrote: 2044897763
+ Wrote: 1967513926
+ Wrote: 1365180540
+ Wrote: 1540383426
+ Wrote: 304089172
+ Wrote: 1303455736
+ Wrote: 35005211
+ Wrote: 521595368
+ Wrote: 294702567
+ Wrote: 1726956429
+ Wrote: 336465782
+Done.....

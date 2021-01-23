@@ -1,0 +1,14 @@
+$ ./bin/server 
+Server Program.
+Press Ctrl+C to exit.
+
+Received Request: isEven(5)... Processed.
+Received Request: isEven(8)... Processed.
+Received Request: isEven(0)... Processed.
+Received Request: isPrime(5)... Processed.
+Received Request: isPrime(25)... Processed.
+Received Request: isPrime(-10)... Processed.
+Received Request: isEven(-3)... Processed.
+Received Request: isPrime(0)... Processed.
+^C
+Deleting message queue and Stopping Server.....

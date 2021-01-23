@@ -1,0 +1,11 @@
+$ ./bin/client 
+Client Program.
+Press Ctrl+C to exit.
+
+> Hello, Server               
+Server: Hello, Server
+> This is Client 1
+Server: This is Client 1
+> Good Bye
+Server: Good Bye
+> ^C

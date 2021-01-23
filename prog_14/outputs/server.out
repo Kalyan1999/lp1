@@ -1,0 +1,10 @@
+$ ./bin/server 
+Server Program. (Simple Message Echo Server)
+Press Ctrl+C to exit.
+
+Received: Hello, Server; Echoing back message... Message Sent.
+Received: Hello, Server!; Echoing back message... Message Sent.
+Received: This is Client 1; Echoing back message... Message Sent.
+Received: Good Bye; Echoing back message... Message Sent.
+Received: This is Client 2; Echoing back message... Message Sent.
+Received: Byeee; Echoing back message... Message Sent.
